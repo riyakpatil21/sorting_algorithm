@@ -1,21 +1,24 @@
-SortingAlgorithmAnimations
+Sorting Algorithms Animations
 ==========================
 
-Download binary .jar: http://bohush.net/sorting.jar
+A Java-based animation tool that visualizes and compares the behavior and performance of classic sorting algorithms, using a variety of input data scenarios.
 
-Visualization and comparison of 9 different sorting algorithms:
-- selection sort
-- insertion sort
-- merge sort
-- quick sort
-- heap sort
-- bubble sort
-- comb sort
+##  Features
 
-The algorithms are used in 4 types of input data:
-- random
-- few unique
-- reversed
-- almost sorted
+- **View animations** of the following sorting algorithms:
+  - Selection Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Heap Sort
+  - Bubble Sort
+  - Comb Sort
+    
+- **Test with different input types** to observe how each algorithm performs in varying contexts:
+  - Random dataset
+  - Few unique elements
+  - Reversed order
+  - Nearly sorted data
+
 
 
